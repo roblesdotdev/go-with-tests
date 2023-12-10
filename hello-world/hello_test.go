@@ -1,6 +1,8 @@
-package main
+package helloworld
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestGreet(t *testing.T) {
 
