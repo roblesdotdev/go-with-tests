@@ -1,2 +1,3 @@
 # go-with-tests
-Learn Go with Testing
+
+This code was written following [this guide](https://quii.gitbook.io/learn-go-with-tests/)
